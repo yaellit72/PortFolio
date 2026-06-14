@@ -246,6 +246,139 @@ const pages = {
 </a>
   `,
 
+  StageP: `
+<h1>Stage de première année</h1>
+
+    <p class="intro">
+       Ici vous trouverez l'entreprise qui m'a pris lors de mon premier stage, ainsi que les missions que j'ai pu faire et les compétences acquises au cours de ce stage.
+    </p>
+
+    <div class="container">
+
+        <p class="description">
+            A2Clic Info – Solutions informatiques de proximité
+
+            <br><br>
+
+            A2Clic Info est une entreprise spécialisée dans l'assistance, le dépannage et l'accompagnement informatique pour 
+            les particuliers, les professionnels et les collectivités. Son objectif est de rendre les outils numériques plus 
+            accessibles, plus fiables et plus performants grâce à un service personnalisé et réactif.
+
+            <br><br>
+
+            L'entreprise intervient sur un large éventail de besoins : maintenance informatique, installation et configuration de matériels, résolution de problèmes techniques,
+            sécurisation des postes de travail et accompagnement des utilisateurs dans leur quotidien numérique.
+
+            <br><br>
+
+            Ce projet met en avant une approche centrée sur la proximité et la qualité de service, avec une attention particulière portée à l'écoute des besoins clients 
+            et à la simplification des solutions techniques. A2Clic Info se distingue par sa capacité à proposer des interventions adaptées, efficaces et compréhensibles, quel que soit le niveau de maîtrise informatique de ses utilisateurs.
+
+        </p>
+
+    </div>
+
+ <h2>Missions réalisées et compétences développées</h2>
+
+<p>
+    Lors de mon stage au sein d'A2Clic Info, j'ai participé à différentes missions liées à l'administration des systèmes et réseaux, au support utilisateur, au déploiement de services informatiques ainsi qu'à la veille technologique et au développement professionnel.
+</p>
+
+<div class="mission-box">
+    <h3>Gestion du patrimoine informatique (B1)</h3>
+
+    <p>
+        J'ai contribué à l'inventaire et au suivi des ressources numériques de plusieurs entreprises, notamment dans des environnements fonctionnant sans connexion Internet.
+    </p>
+
+    <ul>
+        <li>Recenser et identifier les ressources numériques</li>
+        <li>Mettre en place et vérifier les niveaux d'habilitation</li>
+        <li>Vérifier les conditions de continuité d'un service informatique</li>
+        <li>Gérer des sauvegardes</li>
+        <li>Vérifier le respect des règles d'utilisation des ressources numériques</li>
+    </ul>
+</div>
+
+<div class="mission-box">
+    <h3>Support et assistance aux utilisateurs (B2)</h3>
+
+    <p>
+        J'ai assuré diverses opérations de maintenance et d'assistance technique telles que le remplacement de postes informatiques, l'installation de nouveaux équipements, la migration de Windows 10 vers Windows 11 et la vérification du bon fonctionnement des solutions antivirus.
+    </p>
+
+    <ul>
+        <li>Collecter, suivre et orienter les demandes</li>
+        <li>Traiter des demandes concernant les services système et réseau</li>
+        <li>Traiter des demandes concernant les applications</li>
+    </ul>
+</div>
+
+<div class="mission-box">
+    <h3>Présence numérique de l'organisation (B3)</h3>
+
+    <p>
+        J'ai participé aux échanges concernant l'évolution du site web de l'entreprise et aux réflexions portant sur son amélioration.
+    </p>
+
+    <ul>
+        <li>Participer à l'évolution d'un site web</li>
+        <li>Contribuer à la valorisation de l'image de l'organisation</li>
+    </ul>
+</div>
+
+<div class="mission-box">
+    <h3>Travail en mode projet (B4)</h3>
+
+    <p>
+        J'ai réalisé des installations informatiques complètes de manière autonome tout en participant à la gestion du planning hebdomadaire.
+    </p>
+
+    <ul>
+        <li>Analyser les objectifs d'un projet</li>
+        <li>Planifier les activités</li>
+        <li>Suivre l'avancement des actions réalisées</li>
+    </ul>
+</div>
+
+<div class="mission-box">
+    <h3>Mise à disposition des services informatiques (B5)</h3>
+
+    <p>
+        J'ai participé au déploiement et à la maintenance de différents services informatiques.
+    </p>
+
+    <ul>
+        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
+        <li>Déployer un service</li>
+        <li>Accompagner les utilisateurs</li>
+    </ul>
+</div>
+
+<div class="mission-box">
+    <h3>Organisation de son développement professionnel (B6)</h3>
+
+    <p>
+        J'ai développé une démarche de veille technologique et mené des recherches d'alternance ainsi que des actions de prospection.
+    </p>
+
+    <ul>
+        <li>Mettre en œuvre des outils de veille informationnelle</li>
+        <li>Gérer son identité professionnelle</li>
+        <li>Développer son projet professionnel</li>
+        <li>Maintenir à jour son portefeuille de compétences</li>
+    </ul>
+</div>
+  `,
+
+  StageD: `
+<h1>Les AP</h1>
+<p class="StageD">
+treyrj,ej
+</p>
+</a>
+  `,
+
   Contact: `
     Voici toutes les informations afin de contacter cet étudiant
   `
