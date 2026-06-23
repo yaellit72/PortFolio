@@ -220,18 +220,74 @@ CV: `
 </div>
   `,
 
-  AP: `
-<h1>Les AP</h1>
+AP: `
+<h1>Applications Professionnelles</h1>
+
 <p class="intro">
-        Ici vous trouverez les différentes missions d'AP que j'ai pu avoir au cours des 2 années de BTS.
-    </p>
+    Vous trouverez ici les différentes Applications Professionnelles réalisées au cours de mes deux années de BTS SIO ainsi que les compétences développées à travers ces projets.
+</p>
+
+<div class="container">
     <a href="https://docs.google.com/spreadsheets/d/10Un2WtNTe1AedU251vJ0UMDwI2HLWmVf/edit?usp=sharing&ouid=109346040311630020004&rtpof=true&sd=true" target="_blank">
-    Tableau des Compétences sur Excel
-</a>
-  `,
+        📊 Consulter le tableau des compétences
+    </a>
+</div>
+
+<div class="container">
+
+    <h2>Application Professionnelle n°2</h2>
+
+    <h3>Première année • Semestre 2</h3>
+
+    <p class="description">
+
+        Cette Application Professionnelle a été réalisée durant le second semestre de ma première année de BTS SIO.
+
+        <br><br>
+
+        L'objectif de ce projet était de concevoir, développer et déployer une application web complète en appliquant les méthodes et technologies étudiées durant la formation.
+
+        <br><br>
+
+        Ce projet m'a permis de mettre en pratique la gestion de projet, le développement web Front-End et Back-End, la conception de bases de données ainsi que le déploiement d'un service web.
+
+        <br><br>
+
+        <strong>Compétences mobilisées :</strong>
+
+        <br>
+
+        • Gestion de projet (Trello, Git)
+
+        <br>
+
+        • Développement HTML, CSS et JavaScript
+
+        <br>
+
+        • Conception UML et base de données
+
+        <br>
+
+        • Développement PHP
+
+        <br>
+
+        • Déploiement sur serveur
+
+    </p>
+
+</div>
+
+<!-- Tout le détail du projet juste en dessous -->
+`,
 
   StageP: `
 <h1>Stage de première année</h1>
+
+<p class="intro">
+    Vous trouverez ici la présentation de l'entreprise qui m'a accueilli durant mon stage de première année, le contexte professionnel, le système d'information utilisé ainsi que les missions réalisées et les compétences développées.
+</p>
 
 <div class="container">
 
@@ -247,7 +303,7 @@ CV: `
 
         <br><br>
 
-        Grâce à sa structure à taille humaine, A2Clic Info privilégie la proximité avec ses clients, l'écoute de leurs besoins et la réactivité dans les interventions. Cette organisation permet de proposer des solutions adaptées, efficaces et compréhensibles, quel que soit le niveau de maîtrise informatique des utilisateurs.
+        Grâce à sa structure à taille humaine, A2Clic Info privilégie la proximité avec ses clients, l'écoute de leurs besoins et la réactivité dans les interventions. Cette organisation permet de proposer des solutions adaptées, efficaces et compréhensibles quel que soit le niveau de maîtrise informatique des utilisateurs.
 
     </p>
 
@@ -259,27 +315,19 @@ CV: `
 
     <p class="description">
 
-        Au cours de mon stage, j'ai été amené à intervenir sur différents environnements informatiques utilisés par les clients de l'entreprise. Ces environnements reposaient principalement sur des postes de travail équipés de Windows 10 et Windows 11, ainsi que sur divers logiciels destinés à assurer la productivité, la sécurité et la maintenance des systèmes.
+        Au cours de mon stage, j'ai été amené à intervenir sur différents environnements informatiques utilisés par les clients de l'entreprise.
 
         <br><br>
 
-        Parmi les outils rencontrés durant le stage figuraient notamment Microsoft 365 pour la gestion des comptes utilisateurs et des services bureautiques, Bitdefender pour la protection antivirus, Ninite pour l'installation et la mise à jour automatisée de logiciels, ainsi qu'ADWCleaner pour la détection et la suppression de logiciels indésirables.
+        Les infrastructures étaient principalement composées de postes de travail sous Windows 10 et Windows 11, d'imprimantes, de périphériques réseau et de différentes solutions logicielles destinées à la sécurité et à la maintenance des systèmes.
 
         <br><br>
 
-        J'ai également participé à des opérations de maintenance préventive et corrective, à la vérification des configurations matérielles et logicielles des postes de travail, au contrôle de l'état des disques durs, à la mise à jour des systèmes d'exploitation et à la migration de Windows 10 vers Windows 11.
+        Parmi les outils rencontrés durant le stage figuraient Microsoft 365, Bitdefender, Ninite et ADWCleaner. J'ai également participé à la gestion des sauvegardes, à la vérification de leur bon fonctionnement et à la maintenance de plusieurs postes utilisateurs.
 
         <br><br>
 
-        Certaines entreprises clientes travaillaient dans des environnements réseau ne disposant pas d'accès à Internet. Dans ce contexte, il était nécessaire d'assurer un suivi rigoureux des ressources informatiques, des droits d'accès et des procédures de sauvegarde afin de garantir la continuité des activités.
-
-        <br><br>
-
-        J'ai également participé à la gestion des sauvegardes automatiques, à la vérification de leur bon fonctionnement ainsi qu'à la sensibilisation des utilisateurs aux bonnes pratiques informatiques telles que l'installation régulière des mises à jour, l'importance des sauvegardes, la sécurisation des données et la vigilance face aux tentatives de fraude ou d'hameçonnage.
-
-        <br><br>
-
-        Le site internet de l'entreprise fait également partie des outils numériques utilisés. J'ai pu participer à des échanges concernant son évolution et son amélioration afin de renforcer la présence numérique de l'entreprise.
+        Certaines entreprises clientes fonctionnaient dans des environnements réseau ne disposant pas d'accès Internet, nécessitant une gestion rigoureuse des ressources numériques et des procédures de sécurité.
 
     </p>
 
@@ -291,11 +339,15 @@ CV: `
 
     <p class="description">
 
-        A2Clic Info étant une entreprise individuelle, l'ensemble des activités informatiques est assuré par son dirigeant. Celui-ci prend en charge aussi bien les interventions techniques que la gestion des projets, le support aux utilisateurs, le suivi des clients, les activités commerciales et l'administration de l'entreprise.
+        A2Clic Info étant une entreprise individuelle, l'ensemble des activités informatiques est assuré par son dirigeant.
 
         <br><br>
 
-        Cette organisation permet une relation directe avec les clients et une grande polyvalence dans les missions réalisées. Chaque intervention nécessite à la fois des compétences techniques, relationnelles et organisationnelles.
+        Celui-ci prend en charge les interventions techniques, le support utilisateur, la maintenance des infrastructures, la gestion des projets, la relation client ainsi que l'administration de l'entreprise.
+
+        <br><br>
+
+        Cette organisation permet une grande réactivité et une relation directe avec les utilisateurs.
 
     </p>
 
@@ -307,31 +359,24 @@ CV: `
 
     <p class="description">
 
-        Durant mon stage, j'ai travaillé directement aux côtés du responsable de l'entreprise. Cette proximité m'a permis d'observer et de participer à l'ensemble des étapes d'une intervention informatique, depuis l'identification des besoins du client jusqu'à la mise en œuvre des solutions techniques et leur suivi.
+        Durant mon stage, j'ai travaillé directement aux côtés du responsable de l'entreprise.
 
         <br><br>
 
-        J'ai notamment participé à l'inventaire des ressources numériques, à la gestion des sauvegardes, à la vérification des habilitations des utilisateurs, à la maintenance de postes informatiques, au remplacement de matériel, à l'installation de nouveaux équipements, à la migration de systèmes vers Windows 11 ainsi qu'au contrôle du bon fonctionnement des solutions antivirus.
+        Cette proximité m'a permis de participer à l'ensemble des étapes d'une intervention informatique : analyse du besoin, diagnostic, mise en œuvre de solutions, tests et accompagnement des utilisateurs.
 
         <br><br>
 
-        J'ai également réalisé des installations informatiques complètes en autonomie, participé à la planification de certaines interventions et contribué à l'accompagnement des utilisateurs dans l'utilisation de leurs outils numériques.
-
-        <br><br>
-
-        Enfin, ce stage m'a permis de développer mes compétences techniques, mon autonomie, mon sens de l'organisation et ma capacité à communiquer avec les utilisateurs. Il m'a également offert une vision concrète du métier de technicien informatique indépendant et des responsabilités liées à la gestion d'une entreprise de services numériques de proximité.
+        J'ai ainsi pu développer mes compétences techniques tout en découvrant les responsabilités liées à la gestion d'une entreprise informatique indépendante.
 
     </p>
 
 </div>
 
- <h2>Missions réalisées et compétences développées</h2>
-
-<p>
-    Lors de mon stage au sein d'A2Clic Info, j'ai participé à différentes missions liées à l'administration des systèmes et réseaux, au support utilisateur, au déploiement de services informatiques ainsi qu'à la veille technologique et au développement professionnel.
-</p>
+<h2>Missions réalisées et compétences développées</h2>
 
 <div class="mission-box">
+
     <h3>Gestion du patrimoine informatique (B1)</h3>
 
     <p>
@@ -345,9 +390,11 @@ CV: `
         <li>Gérer des sauvegardes</li>
         <li>Vérifier le respect des règles d'utilisation des ressources numériques</li>
     </ul>
+
 </div>
 
 <div class="mission-box">
+
     <h3>Support et assistance aux utilisateurs (B2)</h3>
 
     <p>
@@ -359,9 +406,11 @@ CV: `
         <li>Traiter des demandes concernant les services système et réseau</li>
         <li>Traiter des demandes concernant les applications</li>
     </ul>
+
 </div>
 
 <div class="mission-box">
+
     <h3>Présence numérique de l'organisation (B3)</h3>
 
     <p>
@@ -372,9 +421,11 @@ CV: `
         <li>Participer à l'évolution d'un site web</li>
         <li>Contribuer à la valorisation de l'image de l'organisation</li>
     </ul>
+
 </div>
 
 <div class="mission-box">
+
     <h3>Travail en mode projet (B4)</h3>
 
     <p>
@@ -386,9 +437,11 @@ CV: `
         <li>Planifier les activités</li>
         <li>Suivre l'avancement des actions réalisées</li>
     </ul>
+
 </div>
 
 <div class="mission-box">
+
     <h3>Mise à disposition des services informatiques (B5)</h3>
 
     <p>
@@ -400,9 +453,11 @@ CV: `
         <li>Déployer un service</li>
         <li>Accompagner les utilisateurs</li>
     </ul>
+
 </div>
 
 <div class="mission-box">
+
     <h3>Organisation de son développement professionnel (B6)</h3>
 
     <p>
@@ -415,6 +470,27 @@ CV: `
         <li>Développer son projet professionnel</li>
         <li>Maintenir à jour son portefeuille de compétences</li>
     </ul>
+
+</div>
+
+<div class="container">
+
+    <h2>Bilan personnel</h2>
+
+    <p class="description">
+
+        Ce stage m'a permis de développer mes compétences en administration systèmes et réseaux, en maintenance informatique ainsi qu'en accompagnement des utilisateurs.
+
+        <br><br>
+
+        J'ai renforcé mon autonomie, mon sens de l'organisation et ma capacité à résoudre des problèmes techniques dans des environnements variés.
+
+        <br><br>
+
+        Cette expérience m'a également permis de découvrir le fonctionnement d'une entreprise informatique indépendante et de mieux comprendre les attentes du monde professionnel.
+
+    </p>
+
 </div>
   `,
 
