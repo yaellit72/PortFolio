@@ -167,42 +167,26 @@ const pages = {
     </div>
   `,
 
-  CV: `
+CV: `
 <h1>CV</h1>
 
-    <p class="intro">
-       Sur cette page vous retrouverez toutes les informations trouvable sur mon CV
-    </p>
+<p class="intro">
+    Vous pouvez consulter ou télécharger mon CV.
+</p>
 
-    <div class="container">
+<a href="img/cv.pdf" target="_blank" download>
+    Télécharger mon CV
+</a>
 
-        <p class="description">
-
-            Étudiant en BTS Services Informatiques aux Organisations (SIO), option SLAM,
-            je suis passionné par le développement web et les nouvelles technologies.
-
-            <br><br>
-
-            Je développe actuellement des projets personnels afin d’améliorer mes compétences
-            en HTML, CSS et JavaScript, tout en approfondissant mes connaissances en développement
-            et en informatique.
-
-            <br><br>
-
-            Curieux, autonome et motivé, je souhaite évoluer dans le domaine du développement web
-            et continuer à progresser à travers des projets concrets et une expérience professionnelle enrichissante.
-
-            <br><br>
-
-            Sur ce portfolio, vous retrouverez mes projets, mes compétences ainsi que mon parcours
-            scolaire et professionnel.
-
-        </p>
-
-    </div>
-
-
-  `,
+<div class="container">
+    <iframe
+        src="img/cv.pdf"
+        width="100%"
+        height="800px"
+        style="border:none;">
+    </iframe>
+</div>
+`,
 
 
   Exp:`
@@ -249,34 +233,97 @@ const pages = {
   StageP: `
 <h1>Stage de première année</h1>
 
-    <p class="intro">
-       Ici vous trouverez l'entreprise qui m'a pris lors de mon premier stage, ainsi que les missions que j'ai pu faire et les compétences acquises au cours de ce stage.
+<div class="container">
+
+    <h2>Présentation de l'entreprise</h2>
+
+    <p class="description">
+
+        A2Clic Info est une entreprise informatique indépendante située à Lhomme (72340), dans la Sarthe. Gérée par un seul professionnel, elle est spécialisée dans l'assistance, le dépannage, la maintenance et l'accompagnement informatique auprès des particuliers, des professionnels et des collectivités.
+
+        <br><br>
+
+        L'entreprise propose des services variés tels que l'installation et la configuration de matériels informatiques, la résolution de problèmes techniques, la sécurisation des postes de travail, la gestion des sauvegardes ainsi que l'accompagnement des utilisateurs dans leur utilisation quotidienne des outils numériques.
+
+        <br><br>
+
+        Grâce à sa structure à taille humaine, A2Clic Info privilégie la proximité avec ses clients, l'écoute de leurs besoins et la réactivité dans les interventions. Cette organisation permet de proposer des solutions adaptées, efficaces et compréhensibles, quel que soit le niveau de maîtrise informatique des utilisateurs.
+
     </p>
 
-    <div class="container">
+</div>
 
-        <p class="description">
-            A2Clic Info – Solutions informatiques de proximité
+<div class="container">
 
-            <br><br>
+    <h2>Présentation du système d'information</h2>
 
-            A2Clic Info est une entreprise spécialisée dans l'assistance, le dépannage et l'accompagnement informatique pour 
-            les particuliers, les professionnels et les collectivités. Son objectif est de rendre les outils numériques plus 
-            accessibles, plus fiables et plus performants grâce à un service personnalisé et réactif.
+    <p class="description">
 
-            <br><br>
+        Au cours de mon stage, j'ai été amené à intervenir sur différents environnements informatiques utilisés par les clients de l'entreprise. Ces environnements reposaient principalement sur des postes de travail équipés de Windows 10 et Windows 11, ainsi que sur divers logiciels destinés à assurer la productivité, la sécurité et la maintenance des systèmes.
 
-            L'entreprise intervient sur un large éventail de besoins : maintenance informatique, installation et configuration de matériels, résolution de problèmes techniques,
-            sécurisation des postes de travail et accompagnement des utilisateurs dans leur quotidien numérique.
+        <br><br>
 
-            <br><br>
+        Parmi les outils rencontrés durant le stage figuraient notamment Microsoft 365 pour la gestion des comptes utilisateurs et des services bureautiques, Bitdefender pour la protection antivirus, Ninite pour l'installation et la mise à jour automatisée de logiciels, ainsi qu'ADWCleaner pour la détection et la suppression de logiciels indésirables.
 
-            Ce projet met en avant une approche centrée sur la proximité et la qualité de service, avec une attention particulière portée à l'écoute des besoins clients 
-            et à la simplification des solutions techniques. A2Clic Info se distingue par sa capacité à proposer des interventions adaptées, efficaces et compréhensibles, quel que soit le niveau de maîtrise informatique de ses utilisateurs.
+        <br><br>
 
-        </p>
+        J'ai également participé à des opérations de maintenance préventive et corrective, à la vérification des configurations matérielles et logicielles des postes de travail, au contrôle de l'état des disques durs, à la mise à jour des systèmes d'exploitation et à la migration de Windows 10 vers Windows 11.
 
-    </div>
+        <br><br>
+
+        Certaines entreprises clientes travaillaient dans des environnements réseau ne disposant pas d'accès à Internet. Dans ce contexte, il était nécessaire d'assurer un suivi rigoureux des ressources informatiques, des droits d'accès et des procédures de sauvegarde afin de garantir la continuité des activités.
+
+        <br><br>
+
+        J'ai également participé à la gestion des sauvegardes automatiques, à la vérification de leur bon fonctionnement ainsi qu'à la sensibilisation des utilisateurs aux bonnes pratiques informatiques telles que l'installation régulière des mises à jour, l'importance des sauvegardes, la sécurisation des données et la vigilance face aux tentatives de fraude ou d'hameçonnage.
+
+        <br><br>
+
+        Le site internet de l'entreprise fait également partie des outils numériques utilisés. J'ai pu participer à des échanges concernant son évolution et son amélioration afin de renforcer la présence numérique de l'entreprise.
+
+    </p>
+
+</div>
+
+<div class="container">
+
+    <h2>Organisation du service informatique</h2>
+
+    <p class="description">
+
+        A2Clic Info étant une entreprise individuelle, l'ensemble des activités informatiques est assuré par son dirigeant. Celui-ci prend en charge aussi bien les interventions techniques que la gestion des projets, le support aux utilisateurs, le suivi des clients, les activités commerciales et l'administration de l'entreprise.
+
+        <br><br>
+
+        Cette organisation permet une relation directe avec les clients et une grande polyvalence dans les missions réalisées. Chaque intervention nécessite à la fois des compétences techniques, relationnelles et organisationnelles.
+
+    </p>
+
+</div>
+
+<div class="container">
+
+    <h2>Mon positionnement durant le stage</h2>
+
+    <p class="description">
+
+        Durant mon stage, j'ai travaillé directement aux côtés du responsable de l'entreprise. Cette proximité m'a permis d'observer et de participer à l'ensemble des étapes d'une intervention informatique, depuis l'identification des besoins du client jusqu'à la mise en œuvre des solutions techniques et leur suivi.
+
+        <br><br>
+
+        J'ai notamment participé à l'inventaire des ressources numériques, à la gestion des sauvegardes, à la vérification des habilitations des utilisateurs, à la maintenance de postes informatiques, au remplacement de matériel, à l'installation de nouveaux équipements, à la migration de systèmes vers Windows 11 ainsi qu'au contrôle du bon fonctionnement des solutions antivirus.
+
+        <br><br>
+
+        J'ai également réalisé des installations informatiques complètes en autonomie, participé à la planification de certaines interventions et contribué à l'accompagnement des utilisateurs dans l'utilisation de leurs outils numériques.
+
+        <br><br>
+
+        Enfin, ce stage m'a permis de développer mes compétences techniques, mon autonomie, mon sens de l'organisation et ma capacité à communiquer avec les utilisateurs. Il m'a également offert une vision concrète du métier de technicien informatique indépendant et des responsabilités liées à la gestion d'une entreprise de services numériques de proximité.
+
+    </p>
+
+</div>
 
  <h2>Missions réalisées et compétences développées</h2>
 
