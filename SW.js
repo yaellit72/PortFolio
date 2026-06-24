@@ -507,30 +507,31 @@ AP: `
 
     <p class="description">
 
-Au cours de mon stage chez A2Clic Info, j'ai participé à de nombreuses missions liées à la maintenance informatique, à l'assistance technique et à l'administration
- des systèmes.
+        Au cours de mon stage chez A2Clic Info, j'ai participé à différentes missions de maintenance informatique, d'assistance aux utilisateurs, de sécurisation des postes de travail et d'accompagnement numérique. Ces missions répondaient aux besoins quotidiens des clients de l'entreprise et avaient pour objectif de garantir la disponibilité, la sécurité et le bon fonctionnement de leurs équipements informatiques.
 
-<br><br>
+        <br><br>
 
-J'ai notamment contribué au suivi des ressources numériques, à la configuration et au remplacement de postes informatiques, à la migration de Windows 10 vers Windows 11 
-ainsi qu'à la vérification des solutions antivirus et des sauvegardes. Dans le cadre de la gestion des sauvegardes, j'ai contrôlé leur bon fonctionnement,
- vérifié l'exécution des sauvegardes automatiques et m'assuré que les données importantes des utilisateurs étaient correctement protégées.
+        Pour réaliser ces interventions, j'ai travaillé directement avec le responsable de l'entreprise et utilisé différents outils tels que Microsoft 365, Bitdefender, Ninite, ADWCleaner ainsi que les fonctionnalités d'administration intégrées à Windows 10 et Windows 11. J'ai également été amené à intervenir sur des postes informatiques, des imprimantes et différents périphériques réseau.
 
-<br><br>
+        <br><br>
 
-J'ai également veillé au respect des bonnes pratiques d'utilisation des ressources numériques en sensibilisant les utilisateurs à l'importance des mises à jour,
- de la sécurité des mots de passe, des sauvegardes régulières et de la vigilance face aux liens ou fichiers suspects.
+        Parmi les principales missions réalisées, j'ai participé à la configuration et au remplacement de postes informatiques, à la migration d'ordinateurs vers Windows 11, à la vérification des antivirus, à la gestion des sauvegardes ainsi qu'à l'assistance des utilisateurs. J'ai également pris part aux réflexions concernant l'évolution du site internet de l'entreprise et réalisé une veille technologique sur les nouvelles solutions informatiques.
 
-<br><br>
+        <br><br>
 
-J'ai pris part aux réflexions concernant l'évolution du site internet de l'entreprise, réalisé des installations informatiques complètes en autonomie 
-et participé à l'organisation des interventions.
+        Chaque intervention suivait une démarche similaire : analyse du besoin du client, diagnostic du problème rencontré, recherche de la solution adaptée, mise en œuvre des actions nécessaires puis vérification du bon fonctionnement de la solution déployée. Les interventions étaient validées à travers des tests techniques et par le retour des utilisateurs concernés.
 
-<br><br>
+        <br><br>
 
-Enfin, j'ai accompagné les utilisateurs dans la prise en main de leurs équipements et logiciels en répondant à leurs questions, 
-en les guidant lors des interventions et en leur expliquant les bonnes pratiques permettant d'utiliser leurs outils informatiques de manière efficace et sécurisée.
- Cette expérience m'a permis d'acquérir une vision globale du métier et de renforcer mes compétences techniques et organisationnelles.
+        Plusieurs contraintes ont été rencontrées durant le stage, notamment la diversité des environnements informatiques, la nécessité de préserver les données des utilisateurs lors des migrations de postes ainsi que l'adaptation à des entreprises disposant parfois de réseaux sans accès Internet. Ces situations m'ont appris à analyser rapidement les problèmes et à adapter les solutions proposées en fonction du contexte.
+
+        <br><br>
+
+        Les principaux livrables produits au cours du stage ont été les configurations de postes informatiques, les migrations vers Windows 11, les contrôles de sauvegardes, les installations de logiciels, les comptes rendus d'intervention ainsi que les recommandations formulées aux utilisateurs concernant la sécurité et les bonnes pratiques informatiques.
+
+        <br><br>
+
+        Cette expérience m'a permis de développer mes compétences en maintenance informatique, en administration système et en support utilisateur. Elle m'a également sensibilisé à l'importance de la cybersécurité, de la sauvegarde des données et de l'accompagnement des utilisateurs dans l'utilisation de leurs outils numériques. À l'avenir, certaines tâches pourraient être facilitées par l'utilisation d'outils de supervision centralisés ou de solutions de gestion à distance permettant un suivi plus rapide des équipements et des interventions.
 
     </p>
 
