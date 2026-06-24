@@ -221,72 +221,200 @@ CV: `
   `,
 
 AP: `
-<h1>Applications Professionnelles</h1>
+<h1>Projet AP S2 - Tournois E-Sport</h1>
 
 <p class="intro">
-    Vous trouverez ici les différentes Applications Professionnelles réalisées au cours de mes deux années de BTS SIO ainsi que les compétences développées à travers ces projets.
+    Vous trouverez ici la présentation du projet réalisé dans le cadre de l'atelier de professionnalisation du BTS SIO SLAM. Ce projet consistait à concevoir et développer un site web dédié à la gestion de tournois e-sport pour le Pixel Bar.
 </p>
 
 <div class="container">
-    <a href="https://docs.google.com/spreadsheets/d/10Un2WtNTe1AedU251vJ0UMDwI2HLWmVf/edit?usp=sharing&ouid=109346040311630020004&rtpof=true&sd=true" target="_blank">
-        📊 Consulter le tableau des compétences
-    </a>
-</div>
 
-<div class="container">
-
-    <h2>Application Professionnelle n°2</h2>
-
-    <h3>Première année • Semestre 2</h3>
+    <h2>Présentation du projet</h2>
 
     <p class="description">
 
-        Cette Application Professionnelle a été réalisée durant le second semestre de ma première année de BTS SIO.
+        Dans le cadre d'un projet confié par SOLIDANUM, j'ai participé à la conception et au développement d'un site web destiné au Pixel Bar, un établissement spécialisé dans l'organisation de tournois e-sport.
 
         <br><br>
 
-        L'objectif de ce projet était de concevoir, développer et déployer une application web complète en appliquant les méthodes et technologies étudiées durant la formation.
+        Le client souhaitait disposer d'une plateforme moderne permettant de présenter les jeux concernés par les compétitions, d'afficher les tournois à venir et de gérer facilement les événements via une interface d'administration.
 
         <br><br>
 
-        Ce projet m'a permis de mettre en pratique la gestion de projet, le développement web Front-End et Back-End, la conception de bases de données ainsi que le déploiement d'un service web.
-
-        <br><br>
-
-        <strong>Compétences mobilisées :</strong>
-
-        <br>
-
-        • Gestion de projet (Trello, Git)
-
-        <br>
-
-        • Développement HTML, CSS et JavaScript
-
-        <br>
-
-        • Conception UML et base de données
-
-        <br>
-
-        • Développement PHP
-
-        <br>
-
-        • Déploiement sur serveur
+        Le projet a été réalisé en binôme dans un contexte professionnel simulé, avec des échanges réguliers avec un chef de projet et des rendus intermédiaires permettant de suivre l'avancement des travaux.
 
     </p>
 
 </div>
 
-<!-- Tout le détail du projet juste en dessous -->
-`,
+<div class="container">
 
+    <h2>Contexte professionnel</h2>
+
+    <p class="description">
+
+        Le Pixel Bar organise régulièrement des compétitions de jeux vidéo destinées à une communauté de joueurs composée principalement d'étudiants et de jeunes adultes.
+
+        <br><br>
+
+        Avant ce projet, la communication autour des événements reposait principalement sur les réseaux sociaux.
+
+        <br><br>
+
+        Afin de centraliser les informations et de simplifier la gestion des compétitions, le client a exprimé le besoin de disposer d'un site web responsive permettant de consulter les jeux, les tournois programmés et les informations associées.
+
+    </p>
+
+</div>
+
+<div class="container">
+
+    <h2>Démarche de réalisation</h2>
+
+    <p class="description">
+
+        Le projet a débuté par l'analyse des besoins du client et l'étude du cahier des charges fourni par SOLIDANUM.
+
+        <br><br>
+
+        Nous avons ensuite mis en place une organisation de travail basée sur Trello pour le suivi des tâches et Git pour la gestion des versions du projet.
+
+        <br><br>
+
+        Une identité visuelle complète a été créée comprenant une charte graphique, plusieurs maquettes et une proposition de nouveau logo adaptée à l'image du client.
+
+        <br><br>
+
+        Après validation des maquettes, les interfaces ont été développées à l'aide de HTML, CSS, JavaScript et Bootstrap afin de garantir un affichage responsive sur l'ensemble des supports.
+
+        <br><br>
+
+        La partie back-end a ensuite été préparée avec la réalisation des diagrammes UML, la conception de la base de données et l'ajout de données de test.
+
+        <br><br>
+
+        Enfin, le projet a été déployé sur un serveur web et connecté à une base de données via PHP afin de permettre l'exploitation des données au sein du site.
+
+    </p>
+
+</div>
+
+<div class="container">
+
+    <h2>Résultats et livrables</h2>
+
+    <p class="description">
+
+        Ce projet a permis la réalisation d'un site web complet répondant aux besoins exprimés par le client.
+
+        <br><br>
+
+        Les principaux livrables produits sont les maquettes graphiques, la charte graphique, le logo, la documentation du projet ainsi que l'ensemble des pages web développées.
+
+        <br><br>
+
+        Le site comprend une page d'accueil présentant l'établissement et les jeux disponibles, des pages détaillées pour chaque jeu ainsi qu'un espace d'administration permettant la gestion des utilisateurs, des jeux et des tournois.
+
+        <br><br>
+
+        Une base de données relationnelle a également été conçue afin de stocker et gérer les informations nécessaires au fonctionnement de l'application.
+
+    </p>
+
+</div>
+
+<div class="container">
+
+    <h2>Bilan personnel</h2>
+
+    <p class="description">
+
+        Cette application professionnelle m'a permis de renforcer mes compétences en développement web front-end et back-end, en conception de bases de données ainsi qu'en gestion de projet.
+
+        <br><br>
+
+        J'ai également développé ma capacité à travailler en équipe, à respecter un cahier des charges et à utiliser des outils professionnels de suivi de projet et de gestion de versions.
+
+        <br><br>
+
+        Cette expérience m'a permis de découvrir les différentes étapes de réalisation d'une application web, depuis l'analyse des besoins jusqu'au déploiement de la solution.
+
+    </p>
+
+</div>
+
+<h2>Compétences BTS SIO mises en œuvre</h2>
+
+<div class="mission-box">
+
+    <h3>Gestion du patrimoine informatique (B1)</h3>
+
+    <ul>
+        <li>Mettre en place des outils de gestion de projet (Trello)</li>
+        <li>Utiliser un système de gestion de versions (Git)</li>
+        <li>Organiser et structurer les ressources du projet</li>
+    </ul>
+
+</div>
+
+<div class="mission-box">
+
+    <h3>Réponse aux incidents et aux demandes d'assistance et d'évolution (B2)</h3>
+
+    <ul>
+        <li>Documenter les choix techniques et fonctionnels</li>
+        <li>Assurer le suivi des évolutions du projet</li>
+        <li>Mettre à jour la documentation associée</li>
+    </ul>
+
+</div>
+
+<div class="mission-box">
+
+    <h3>Développement de la présence en ligne de l'organisation (B3)</h3>
+
+    <ul>
+        <li>Réaliser des maquettes graphiques</li>
+        <li>Concevoir l'identité visuelle du projet</li>
+        <li>Développer des interfaces web en HTML, CSS et JavaScript</li>
+        <li>Créer des pages web responsives avec Bootstrap</li>
+    </ul>
+
+</div>
+
+<div class="mission-box">
+
+    <h3>Travail en mode projet (B4)</h3>
+
+    <ul>
+        <li>Analyser les objectifs d'un projet</li>
+        <li>Planifier les activités</li>
+        <li>Suivre l'avancement des tâches</li>
+        <li>Présenter les résultats obtenus</li>
+    </ul>
+
+</div>
+
+<div class="mission-box">
+
+    <h3>Mise à disposition des services informatiques (B5)</h3>
+
+    <ul>
+        <li>Concevoir une base de données relationnelle</li>
+        <li>Réaliser des diagrammes UML</li>
+        <li>Ajouter des données de test</li>
+        <li>Déployer un site web sur un serveur</li>
+        <li>Mettre en place une connexion PHP avec la base de données</li>
+        <li>Intégrer les données dynamiques dans l'application</li>
+    </ul>
+
+</div>
+`,
   StageP: `
 <h1>Stage de première année</h1>
 
 <p class="intro">
-    Vous trouverez ici la présentation de l'entreprise qui m'a accueilli durant mon stage de première année, le contexte professionnel, le système d'information utilisé ainsi que les missions réalisées et les compétences développées.
+    Vous trouverez ici la présentation de l'entreprise qui m'a accueilli durant mon stage de première année de BTS, du 18 Mai 2026 au 19 Juin 2026, le contexte professionnel, le système d'information utilisé ainsi que les missions réalisées et les compétences développées.
 </p>
 
 <div class="container">
@@ -373,103 +501,38 @@ AP: `
 
 </div>
 
-<h2>Missions réalisées et compétences développées</h2>
+<h2>Missions réalisées</h2>
 
-<div class="mission-box">
+<div class="container">
 
-    <h3>Gestion du patrimoine informatique (B1)</h3>
+    <p class="description">
 
-    <p>
-        J'ai contribué à l'inventaire et au suivi des ressources numériques de plusieurs entreprises, notamment dans des environnements fonctionnant sans connexion Internet.
+Au cours de mon stage chez A2Clic Info, j'ai participé à de nombreuses missions liées à la maintenance informatique, à l'assistance technique et à l'administration
+ des systèmes.
+
+<br><br>
+
+J'ai notamment contribué au suivi des ressources numériques, à la configuration et au remplacement de postes informatiques, à la migration de Windows 10 vers Windows 11 
+ainsi qu'à la vérification des solutions antivirus et des sauvegardes. Dans le cadre de la gestion des sauvegardes, j'ai contrôlé leur bon fonctionnement,
+ vérifié l'exécution des sauvegardes automatiques et m'assuré que les données importantes des utilisateurs étaient correctement protégées.
+
+<br><br>
+
+J'ai également veillé au respect des bonnes pratiques d'utilisation des ressources numériques en sensibilisant les utilisateurs à l'importance des mises à jour,
+ de la sécurité des mots de passe, des sauvegardes régulières et de la vigilance face aux liens ou fichiers suspects.
+
+<br><br>
+
+J'ai pris part aux réflexions concernant l'évolution du site internet de l'entreprise, réalisé des installations informatiques complètes en autonomie 
+et participé à l'organisation des interventions.
+
+<br><br>
+
+Enfin, j'ai accompagné les utilisateurs dans la prise en main de leurs équipements et logiciels en répondant à leurs questions, 
+en les guidant lors des interventions et en leur expliquant les bonnes pratiques permettant d'utiliser leurs outils informatiques de manière efficace et sécurisée.
+ Cette expérience m'a permis d'acquérir une vision globale du métier et de renforcer mes compétences techniques et organisationnelles.
+
     </p>
-
-    <ul>
-        <li>Recenser et identifier les ressources numériques</li>
-        <li>Mettre en place et vérifier les niveaux d'habilitation</li>
-        <li>Vérifier les conditions de continuité d'un service informatique</li>
-        <li>Gérer des sauvegardes</li>
-        <li>Vérifier le respect des règles d'utilisation des ressources numériques</li>
-    </ul>
-
-</div>
-
-<div class="mission-box">
-
-    <h3>Support et assistance aux utilisateurs (B2)</h3>
-
-    <p>
-        J'ai assuré diverses opérations de maintenance et d'assistance technique telles que le remplacement de postes informatiques, l'installation de nouveaux équipements, la migration de Windows 10 vers Windows 11 et la vérification du bon fonctionnement des solutions antivirus.
-    </p>
-
-    <ul>
-        <li>Collecter, suivre et orienter les demandes</li>
-        <li>Traiter des demandes concernant les services système et réseau</li>
-        <li>Traiter des demandes concernant les applications</li>
-    </ul>
-
-</div>
-
-<div class="mission-box">
-
-    <h3>Présence numérique de l'organisation (B3)</h3>
-
-    <p>
-        J'ai participé aux échanges concernant l'évolution du site web de l'entreprise et aux réflexions portant sur son amélioration.
-    </p>
-
-    <ul>
-        <li>Participer à l'évolution d'un site web</li>
-        <li>Contribuer à la valorisation de l'image de l'organisation</li>
-    </ul>
-
-</div>
-
-<div class="mission-box">
-
-    <h3>Travail en mode projet (B4)</h3>
-
-    <p>
-        J'ai réalisé des installations informatiques complètes de manière autonome tout en participant à la gestion du planning hebdomadaire.
-    </p>
-
-    <ul>
-        <li>Analyser les objectifs d'un projet</li>
-        <li>Planifier les activités</li>
-        <li>Suivre l'avancement des actions réalisées</li>
-    </ul>
-
-</div>
-
-<div class="mission-box">
-
-    <h3>Mise à disposition des services informatiques (B5)</h3>
-
-    <p>
-        J'ai participé au déploiement et à la maintenance de différents services informatiques.
-    </p>
-
-    <ul>
-        <li>Réaliser les tests d'intégration et d'acceptation d'un service</li>
-        <li>Déployer un service</li>
-        <li>Accompagner les utilisateurs</li>
-    </ul>
-
-</div>
-
-<div class="mission-box">
-
-    <h3>Organisation de son développement professionnel (B6)</h3>
-
-    <p>
-        J'ai développé une démarche de veille technologique et mené des recherches d'alternance ainsi que des actions de prospection.
-    </p>
-
-    <ul>
-        <li>Mettre en œuvre des outils de veille informationnelle</li>
-        <li>Gérer son identité professionnelle</li>
-        <li>Développer son projet professionnel</li>
-        <li>Maintenir à jour son portefeuille de compétences</li>
-    </ul>
 
 </div>
 
@@ -492,6 +555,72 @@ AP: `
     </p>
 
 </div>
+
+
+
+<h2>Compétences BTS SIO mises en œuvre</h2>
+
+<div class="mission-box">
+
+    <h3>Gestion du patrimoine informatique (B1)</h3>
+
+    <ul>
+        <li>Mettre en place et vérifier les niveaux d'habilitation</li>
+        <li>Gérer des sauvegardes</li>
+        <li>Vérifier le respect des règles d'utilisation des ressources numériques</li>
+    </ul>
+
+</div>
+
+<div class="mission-box">
+
+    <h3>Support et assistance aux utilisateurs (B2)</h3>
+
+    <ul>
+        <li>Collecter, suivre et orienter les demandes</li>
+    </ul>
+
+</div>
+
+<div class="mission-box">
+
+    <h3>Travail en mode projet (B4)</h3>
+
+    <ul>
+        <li>Analyser les objectifs d'un projet</li>
+    </ul>
+
+</div>
+
+<div class="mission-box">
+
+    <h3>Mise à disposition des services informatiques (B5)</h3>
+
+
+    <ul>
+        <li>Accompagner les utilisateurs</li>
+    </ul>
+
+</div>
+
+<div class="mission-box">
+
+    <h3>Organisation de son développement professionnel (B6)</h3>
+
+
+    <ul>
+        <li>Mettre en œuvre des outils de veille informationnelle</li>
+    </ul>
+
+</div>
+
+<p class="intro">
+    Vous pouvez consulter ou télécharger une diapo de présentation.
+</p>
+
+<a href="img/diapo.pdf" target="_blank" download>
+    Télécharger la présentation.
+</a>
   `,
 
   StageD: `
