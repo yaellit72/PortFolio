@@ -505,37 +505,108 @@ AP: `
 
 <div class="container">
 
-    <p class="description">
+<h2>Missions réalisées</h2>
 
-        Au cours de mon stage chez A2Clic Info, j'ai participé à différentes missions de maintenance informatique, d'assistance aux utilisateurs, de sécurisation des postes de travail et d'accompagnement numérique. Ces missions répondaient aux besoins quotidiens des clients de l'entreprise et avaient pour objectif de garantir la disponibilité, la sécurité et le bon fonctionnement de leurs équipements informatiques.
+<p class="description">
 
-        <br><br>
+    Au cours de mon stage chez A2Clic Info, j'ai participé à plusieurs missions liées à la maintenance informatique, à la sécurité des systèmes, à l'assistance aux utilisateurs et à l'amélioration des services proposés par l'entreprise.
 
-        Pour réaliser ces interventions, j'ai travaillé directement avec le responsable de l'entreprise et utilisé différents outils tels que Microsoft 365, Bitdefender, Ninite, ADWCleaner ainsi que les fonctionnalités d'administration intégrées à Windows 10 et Windows 11. J'ai également été amené à intervenir sur des postes informatiques, des imprimantes et différents périphériques réseau.
-
-        <br><br>
-
-        Parmi les principales missions réalisées, j'ai participé à la configuration et au remplacement de postes informatiques, à la migration d'ordinateurs vers Windows 11, à la vérification des antivirus, à la gestion des sauvegardes ainsi qu'à l'assistance des utilisateurs. J'ai également pris part aux réflexions concernant l'évolution du site internet de l'entreprise et réalisé une veille technologique sur les nouvelles solutions informatiques.
-
-        <br><br>
-
-        Chaque intervention suivait une démarche similaire : analyse du besoin du client, diagnostic du problème rencontré, recherche de la solution adaptée, mise en œuvre des actions nécessaires puis vérification du bon fonctionnement de la solution déployée. Les interventions étaient validées à travers des tests techniques et par le retour des utilisateurs concernés.
-
-        <br><br>
-
-        Plusieurs contraintes ont été rencontrées durant le stage, notamment la diversité des environnements informatiques, la nécessité de préserver les données des utilisateurs lors des migrations de postes ainsi que l'adaptation à des entreprises disposant parfois de réseaux sans accès Internet. Ces situations m'ont appris à analyser rapidement les problèmes et à adapter les solutions proposées en fonction du contexte.
-
-        <br><br>
-
-        Les principaux livrables produits au cours du stage ont été les configurations de postes informatiques, les migrations vers Windows 11, les contrôles de sauvegardes, les installations de logiciels, les comptes rendus d'intervention ainsi que les recommandations formulées aux utilisateurs concernant la sécurité et les bonnes pratiques informatiques.
-
-        <br><br>
-
-        Cette expérience m'a permis de développer mes compétences en maintenance informatique, en administration système et en support utilisateur. Elle m'a également sensibilisé à l'importance de la cybersécurité, de la sauvegarde des données et de l'accompagnement des utilisateurs dans l'utilisation de leurs outils numériques. À l'avenir, certaines tâches pourraient être facilitées par l'utilisation d'outils de supervision centralisés ou de solutions de gestion à distance permettant un suivi plus rapide des équipements et des interventions.
-
-    </p>
+</p>
 
 </div>
+
+<div class="mission-box">
+
+<h3>Maintenance et support utilisateur</h3>
+
+<p>
+    <strong>Contexte :</strong> Les clients rencontrent régulièrement des problèmes matériels ou logiciels nécessitant une intervention rapide.
+</p>
+
+<p>
+    <strong>Objectif :</strong> Maintenir les équipements informatiques en état de fonctionnement et répondre aux besoins des utilisateurs.
+</p>
+
+<ul>
+    <li>Remplacement et configuration de postes informatiques</li>
+    <li>Installation d'imprimantes et de nouveaux équipements</li>
+    <li>Migration de Windows 10 vers Windows 11</li>
+    <li>Vérification des solutions antivirus</li>
+    <li>Traitement et suivi des demandes utilisateurs</li>
+</ul>
+
+<p>
+    <strong>Validation :</strong> Vérification du bon fonctionnement des équipements et validation des interventions avec les utilisateurs.
+</p>
+
+<p>
+    <strong>Difficultés rencontrées :</strong> Adaptation à différents environnements informatiques et compréhension des besoins spécifiques de chaque client.
+</p>
+
+</div>
+
+<div class="mission-box">
+
+
+<h3>Sauvegardes et sécurité informatique</h3>
+
+<p>
+    <strong>Contexte :</strong> Assurer la protection des données et limiter les risques liés aux incidents informatiques.
+</p>
+
+<p>
+    <strong>Objectif :</strong> Garantir la fiabilité des sauvegardes et sensibiliser les utilisateurs aux bonnes pratiques de sécurité.
+</p>
+
+<ul>
+    <li>Contrôle des sauvegardes automatiques</li>
+    <li>Vérification du bon fonctionnement des sauvegardes</li>
+    <li>Contrôle des solutions antivirus</li>
+    <li>Sensibilisation aux bonnes pratiques numériques</li>
+    <li>Vérification du respect des règles d'utilisation des ressources numériques</li>
+</ul>
+
+<p>
+    <strong>Validation :</strong> Contrôle de l'exécution des sauvegardes et vérification de la protection des postes utilisateurs.
+</p>
+
+<p>
+    <strong>Difficultés rencontrées :</strong> Comprendre les procédures de sécurité mises en place et adapter les recommandations aux différents utilisateurs.
+</p>
+
+
+</div>
+
+<div class="mission-box">
+
+
+<h3>Accompagnement des utilisateurs et amélioration des services</h3>
+
+<p>
+    <strong>Contexte :</strong> Faciliter l'utilisation des outils numériques et participer à l'évolution des services proposés par l'entreprise.
+</p>
+
+<p>
+    <strong>Objectif :</strong> Accompagner les utilisateurs dans leurs usages quotidiens et contribuer aux réflexions sur l'amélioration des outils existants.
+</p>
+
+<ul>
+    <li>Accompagnement des utilisateurs lors des interventions</li>
+    <li>Explication des bonnes pratiques informatiques</li>
+    <li>Participation aux échanges sur l'évolution du site internet</li>
+    <li>Veille technologique sur les solutions informatiques</li>
+</ul>
+
+<p>
+    <strong>Livrables :</strong> Conseils utilisateurs, recommandations techniques, comptes rendus d'interventions et veille technologique.
+</p>
+
+<p>
+    <strong>Difficultés rencontrées :</strong> Adapter les explications au niveau de connaissance des utilisateurs et identifier les solutions les plus adaptées à leurs besoins.
+</p>
+
+</div>
+
 
 <div class="container">
 
